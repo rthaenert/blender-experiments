@@ -1,2 +1,3 @@
 # blender-experiments
-Tutorials and stuff i did to learn Blender
+
+Learning 3D stuff, or at least trying to
