@@ -1,3 +1,6 @@
 # blender-experiments
 
-Learning 3D stuff, or at least trying to
+Experiments, Stuff with Blender
+
+# Gallery
+![Donut Tutorial Render](renders/donut_render1_small.png)
