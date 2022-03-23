@@ -1,8 +1,9 @@
 # Mac stuff
 .DS_Store
 
-# Reference Images (removed to avoid copyright infringement
+# Reference Images, Textures (removed to avoid copyright infringement)
 references/
+textures/
 
 # Blender specific
 .blend1
