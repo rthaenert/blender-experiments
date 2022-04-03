@@ -1,9 +1,9 @@
 # Mac stuff
-.DS_Store
+*.DS_Store
 
 # Reference Images, Textures (removed to avoid copyright infringement)
 references/
 textures/
 
 # Blender specific
-.blend1
+*.blend1
